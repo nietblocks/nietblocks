@@ -2,7 +2,8 @@
 - 👀 We're interested in opensource development and colloboration
 - 🌱 We're currently learning blockchain in colloboration with DLT labs
 - 💞️ We're looking to collaborate on related projects
-- 📫 You can reach us [nbody1384@gmail.com]click!!!
+- 📫 You can reach us [click!!!](nbody1384@gmail.com)
+
 
 <!---
 nietblocks/nietblocks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
