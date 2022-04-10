@@ -2,7 +2,7 @@
 - 👀 We're interested in opensource development and colloboration
 - 🌱 We're currently learning blockchain in colloboration with DLT labs
 - 💞️ We're looking to collaborate on related projects
-- 📫 You can reach us [click!!!](nbody1384@gmail.com)
+- 📫 You can reach us [click!!! to mail us](mailto:nbody1384@gmail.com)
 
 
 <!---
